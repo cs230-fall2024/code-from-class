@@ -1,0 +1,20 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+.DS_Store
+.devcontainer/
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CTestTestfile.cmake
+cmake_install.cmake
+sort*_include.cmake
+sort*_tests.cmake
+sort
